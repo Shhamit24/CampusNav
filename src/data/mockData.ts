@@ -54,14 +54,14 @@ export const mockStartLocations: string[] = [
   "Room 103",
 ];
 
-export const mockBranches = ["CSE", "ISE", "ECE", "EEE", "ME", "CIVIL"];
+export const mockBranches = ["CSE", "IT", "ECE", "EE", "ME", "CIVIL , DS , AI"];
 
 export const mockSubjects = [
-  "Data Structures",
-  "Operating Systems",
+  "DSA",
+  "CA",
   "Database Management",
-  "Computer Networks",
-  "Mathematics",
+  "DSA Practical",
+  "DMGT",
 ];
 
 export const mockFaculty = [
