@@ -54,7 +54,7 @@ export const mockStartLocations: string[] = [
   "Room 103",
 ];
 
-export const mockBranches = ["CSE", "IT", "ECE", "EE", "ME", "CIVIL , DS , AI"];
+export const mockBranches = ["CSE", "IT", "ECE", "EE", "ME", "CIVIL" , "DS" , "AI"];
 
 export const mockSubjects = [
   "DSA",
