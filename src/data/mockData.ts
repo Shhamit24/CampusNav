@@ -114,14 +114,12 @@ export const mockClassRoute: MockRoute = {
   to: "109",
   path: "298,522 298,502 352,502 352,213 396,213",
   steps: [
-    { icon: "exit", title: "Exit Current Location", detail: "Ground Floor", distance: "0 m" },
-    { icon: "straight", title: "Walk to Staircase B", distance: "18 m" },
-    { icon: "stairs", title: "Go up to Floor 2", detail: "Via Staircase B" },
+    { icon: "exit", title: "Exit Current Location", detail: "First Floor", distance: "0 m" },
     { icon: "turn-right", title: "Turn right", detail: "At the end of the corridor", distance: "20 m" },
     {
       icon: "destination",
       title: "Destination is ahead",
-      detail: "Room 214 • Classroom",
+      detail: "Room 109 • Classroom",
       distance: "62 m",
     },
   ],
