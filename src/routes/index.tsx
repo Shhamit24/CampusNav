@@ -210,7 +210,7 @@ function CampusNav() {
             floors={mockFloors}
             onFloorChange={setFloor}
             route={route}
-            {...(mode === "class" && route ? { highlightLabel: "214" } : {})}
+            {...(mode === "class" && route ? { highlightLabel: "109" } : {})}
           />
         </div>
 
