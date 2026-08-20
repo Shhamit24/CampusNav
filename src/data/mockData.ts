@@ -78,8 +78,8 @@ export const mockFloors = ["Floor 1", "Floor 2", "Floor 3", "Floor 4"];
  * (branch + subject + faculty) -> classroom resolution.
  */
 export const mockClassroom = {
-  room: "Room 214",
-  floor: "Second Floor",
+  room: "Room 109",
+  floor: "First Floor",
   type: "Classroom",
 };
 
@@ -87,7 +87,7 @@ export const mockClassroom = {
 export const mockRoute: MockRoute = {
   distance: "46 m",
   time: "1 min 20 sec",
-  floorsCrossed: "1",
+  floorsCrossed: "None",
   from: "101",
   to: "108",
   path: "40,72 40,82 396,82 396,145",
@@ -109,7 +109,7 @@ export const mockRoute: MockRoute = {
 export const mockClassRoute: MockRoute = {
   distance: "62 m",
   time: "1 min 45 sec",
-  floorsCrossed: "2",
+  floorsCrossed: "None",
   from: "118",
   to: "109",
   path: "298,522 298,502 352,502 352,213 396,213",
