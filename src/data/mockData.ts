@@ -93,9 +93,9 @@ export const mockRoute: MockRoute = {
   path: "40,72 40,82 396,82 396,145",
   steps: [
     { icon: "exit", title: "Exit Room 101", detail: "Operating Systems Lab", distance: "0 m" },
-    { icon: "straight", title: "Walk straight", distance: "15 m" },
+    { icon: "straight", title: "Take right from exit", distance: "0 m" },
+     { icon: "straight", title: "Walk straight", distance: "15 m" },
     { icon: "turn-right", title: "Turn right", detail: "At the end of the corridor" },
-    { icon: "stairs", title: "Take Staircase A", detail: "Go to Floor 2" },
     {
       icon: "destination",
       title: "Destination is on your left",
